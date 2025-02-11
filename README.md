@@ -1,4 +1,4 @@
 # Ankitgit-demo
 this repo is for practicing git
 <br>
-Ankit Dongare(Author)
+Ankit Dongare(Author) patkar college
